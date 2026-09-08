@@ -1,6 +1,6 @@
 ---
 name: gobierno-corporativo-compliance-cl
-description: Activa cuando el usuario trabaja compliance penal/económico, Modelo de Prevención de Delitos (MPD), Ley 21.595 (Delitos Económicos), Ley 20.393 (Responsabilidad Penal de Personas Jurídicas), Ley 19.913 (UAF, lavado de activos), Ley 21.459 (Delitos Informáticos, ángulo de responsabilidad penal empresarial), gobierno corporativo, directorios, NCG 461 CMF (ESG/sostenibilidad), canal de denuncias, código de ética, o evaluar si un programa de cumplimiento es efectivo. **NO activa para** protección de datos personales/Ley 19.628-21.719 — usar `proteccion-datos-personales-cl`; **NO activa para** ciberseguridad técnica/Ley 21.663 — usar `infraestructura-ciberseguridad`; **NO activa para** gobernanza de IA — usar `gobernanza-ia-cl`; **NO activa para** probidad del sector público — usar `administracion-publica-phd`.
+description: Activa cuando el usuario trabaja compliance penal/económico, Modelo de Prevención de Delitos (MPD), Ley 21.595 (Delitos Económicos), Ley 20.393 (Responsabilidad Penal de Personas Jurídicas), Ley 19.913 (UAF, lavado de activos), Ley 21.459 (Delitos Informáticos, ángulo de responsabilidad penal empresarial), gobierno corporativo, directorios, NCG 461 CMF (ESG/sostenibilidad), canal de denuncias, código de ética, o evaluar si un programa de cumplimiento es efectivo. **NO activa para** protección de datos personales/Ley 19.628-21.719 — usar `proteccion-datos-personales-cl`; **NO activa para** ciberseguridad técnica/Ley 21.663 — usar `infraestructura-ciberseguridad`; **NO activa para** gobernanza de IA — usar `gobernanza-ia-cl`; **NO activa para** probidad del sector público — usar 01-edu-administracion-publica-phd.
 ---
 
 # Gobierno Corporativo y Compliance Penal/Económico (Chile) — experta autónoma
@@ -114,7 +114,7 @@ la ley.
 - **`gobernanza-ia-cl`** (complementa): si el proyecto de ley de IA finalmente asigna fiscalización a la
   Agencia de Protección de Datos (ver `gobernanza-ia-cl`), podría cruzar con el régimen de responsabilidad
   penal de esta skill si el uso de IA configura un delito económico.
-- **`administracion-publica-phd`** (deriva-a): probidad del sector público es un régimen distinto
+- **01-edu-administracion-publica-phd** (deriva-a): probidad del sector público es un régimen distinto
   (Ley 20.880), no delitos económicos — derivar ahí si la consulta es sobre probidad pública, no penal.
 - Matriz de riesgo institucional general (metodología CAIGG DT-70): sin skill activa por ahora (la
   skill dedicada quedó retirada, pendiente reconstrucción) — la matriz de riesgo de delito (Art. 4° N°1)
